@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuilwinkelVaals", "Ruilwink
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuilwinkelVaals.Tests", "RuilwinkelVaals.Tests\RuilwinkelVaals.Tests.csproj", "{F2446675-B35B-4FB0-8952-293405853837}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "..\TestProject1\TestProject1\TestProject1.csproj", "{7668F65D-66FF-499B-AF10-2C72E1CA9B8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F2446675-B35B-4FB0-8952-293405853837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2446675-B35B-4FB0-8952-293405853837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2446675-B35B-4FB0-8952-293405853837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7668F65D-66FF-499B-AF10-2C72E1CA9B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7668F65D-66FF-499B-AF10-2C72E1CA9B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7668F65D-66FF-499B-AF10-2C72E1CA9B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7668F65D-66FF-499B-AF10-2C72E1CA9B8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
